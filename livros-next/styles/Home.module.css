@@ -1,0 +1,29 @@
+/* styles/Home.module.css */
+
+/* Estilos para o contêiner principal */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Estilos para a área principal (main) */
+.main {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Estilos para o título h1 */
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Estilos para o menu de navegação (caso você queira personalizar) */
+.menu {
+  
+    background-color: black;
+    color: white;
+    font-weight: bold;
+  
+} 
